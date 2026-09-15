@@ -13,6 +13,7 @@ Simple AI summarization application to learn how to make API calls to local or r
 |-|-|-|
 |API_BASE_URL|url| The OpenAPI compatible endpoint for chat and tool calling.|
 |API_KEY|text|The credential key to authenticate against the the api.|
+|MODEL|text|The model name to be called from the api.|
 
 ## Use
 
